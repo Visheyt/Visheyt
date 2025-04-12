@@ -39,7 +39,14 @@
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
 
 <div align="center">
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+ 
+[![trophy](https://github-profile-trophy.vercel.app/?username=visheyt)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=visheyt)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=visheyt&layout=compact)](https://github.com/visheyt/github-readme-stats)
+
+
 </div>
 
 </div>

@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Aleksey Shuklin</h1>
 
- <h2 align="center">:computer: I am junior frontend developer</h2>
+ <h2 align="center">:computer: I am  frontend developer</h2>
 <div align="center">
   
 <h2>My tech steck:</h2>
